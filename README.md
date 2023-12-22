@@ -1,3 +1,6 @@
+**Server Configuration**
+![Server Configuration](https://i.imgur.com/r6noUkY.png)
+
 1. **IP Address**:
    - The IP address is not directly configured in the `dedicatedserver.cfg` file. It’s determined by the machine where you’re running the server.
    - The server will listen on all available network interfaces by default.
@@ -55,7 +58,6 @@
     - Example: `"saveInterval": 10`
 
 Remember to adjust these settings according to your preferences.
-
 For more details, you can refer to the [Dedicated Server Configuration Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2992700419) on Steam Community.
 
 Let me know if you need further [assistance🗣️](https://discord.com/users/625796542456004639)! 😊
