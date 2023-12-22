@@ -15,7 +15,7 @@ function createWindow() {
     });
     mainWindow.setMenu(null);
     // Load the HTML file
-    mainWindow.loadFile('engine.html');
+    mainWindow.loadFile('index.html');
 
     // Open the DevTools (for development purposes)
     // mainWindow.webContents.openDevTools();
