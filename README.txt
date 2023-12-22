@@ -1,9 +1,8 @@
 **Server Configuration**
 ![Server Configuration](https://i.imgur.com/r6noUkY.png)
 
->Disclaimer: Before you get started, just noted, that theres nothing to execute. Therefore you can just launch the simple index.html file. The rest of the files will help it. For advanced development for yourself, you can load this in vsCode. I do not support your decision if you should make any edits.
+Before you get started, just noted, that theres nothing to execute. Therefore you can just launch the simple index.html file. The rest of the files will help it. For advanced development for yourself, you can load this in vsCode. I do not support your decision if you should make any edits.
 
-**To get started, just click** `index.html`
 
 1. **IP Address**:
    - The IP address is not directly configured in the `dedicatedserver.cfg` file. It’s determined by the machine where you’re running the server.
